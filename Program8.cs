@@ -29,6 +29,7 @@ namespace _20._02
 
             double result = value * percent / 100;
 
+            // Виводимо результат на екран
             Console.WriteLine("{0} відсотків від {1} дорівнює {2}", percent, value, result);
             Console.ReadKey();
         }
