@@ -1,7 +1,7 @@
 ﻿
 using System.Text;
 
-namespace CSharp
+namespace _20._02
 {
     class Program
     {
