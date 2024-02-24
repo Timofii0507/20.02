@@ -35,8 +35,8 @@ namespace _20._02
             else
             {
                 Console.WriteLine("Невірний напрямок лінії!");
-                Console.ReadKey();
             }
+            Console.ReadKey();
         }
     }
 }
